@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    "Poppins", monospace;
+}
+
+.ant-menu-title-content {
+  font-weight: 700;
+}
+
+.ant-spin-dot-item {
+  background-color: "#00264d" !important;
+}
+
+.cardWithRoundedImage .ant-card-cover {
+  overflow: hidden;
+}
+
+.cardWithRoundedImage .ant-card-cover img {
+  border-radius: 15px 15px 0 0;
+  display: block;
+}
